@@ -8,7 +8,7 @@ I'm Canadian and looking for commissions. Doing commissions just something I enj
 ### Active Projects:
 - Fursona Global (API)
 - Pawnetic (Web, Discord, etc..)
-& some more smaller things..
+- & some more smaller things..
 
 
 
