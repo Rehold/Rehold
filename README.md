@@ -1,4 +1,4 @@
-### Hi there👋, I'm Rehold! An Python developer. I am experienced with Discord bots and Websites at the current moment!
+## Hi there👋, I'm Rehold! An Python developer. I am experienced with Discord bots and Websites at the current moment!
 
 ### Lil about me:
 I'm Canadian and looking for commissions. Doing commissions just something I enjoy, not something just for money. I don't cut corners and make sure all my work is efficent and clean :3
