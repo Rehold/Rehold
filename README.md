@@ -1,16 +1,13 @@
-### Hi there 👋
+### Hi there👋, I'm Rehold! An Python developer. I am experienced with Discord bots and Websites at the current moment!
 
-<!--
-**Rehold/Rehold** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+###Active Projects:
+- Fursona Global (API)
+- Pawnetic (Web, Discord, etc..)
+& some more smaller things..
 
-Here are some ideas to get you started:
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+I have a few public bots, check em out :3
+
+
+####Some stats:
+[![Stats]([https://github-readme-stats.vercel.app/api/top-langs/?username=Rehold&layout=compact](https://github-readme-stats.vercel.app/api?username=Rehold&show_icons=true&title_color=3fe749&bg_color=000000&icon_color=44d8e9))](https://github.com/anuraghazra/github-readme-stats)
