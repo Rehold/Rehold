@@ -10,6 +10,10 @@ I'm Canadian and looking for commissions. Doing commissions just something I enj
 - Pawnetic (Web, Discord, etc..)
 - & some more smaller things..
 
+### Example Projects:
+I have some Open SRC projects in my github, and some screen shots of commissions ive done here:
+https://docs.google.com/document/d/196YgL-Ei5RQ-TzlHfYiNedRrmLqpdgT1w6zT48khVN0/edit?usp=sharing
+
 
 
 I also have a few public bots, check em out!
