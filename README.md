@@ -1,14 +1,12 @@
 ## Hi there👋, I'm Rehold!
 
-### I'm an Python developer, and learning more langs. I am mainly experienced with Discord bots and Websites at the current moment!
+### I'm an Full Stack developer, I am mainly experienced with Discord bots and Websites at the current moment!
 
 ### Lil about me:
-I'm Canadian and looking for commissions. Doing commissions just something I enjoy, not something just for money. I don't cut corners and make sure all my work is efficent and clean :3
+I'm Canadian  and gay.
 
 ### Active Projects:
 - Furbox (Full Social Website - Coming Soon)
-- Fursona Global (API - Closed)
-- Pawnetic (Web, Discord, etc.. - Closed)
 - & some more smaller things..
 
 ### Example Projects:
